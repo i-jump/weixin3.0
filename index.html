@@ -1,0 +1,89 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>1505班</title>
+  <script src="./js/setfontsize.js"></script>
+  <link rel="stylesheet" href="./css/weixin.css">
+  <script src="./js/jquery-3.2.1.min.js"></script>
+  <script src="./js/weixinDemo.js"></script>
+    <!--<script src="./js/weixin2.js"></script>-->
+</head>
+<body>
+    <div id="wrap">
+        <div id="header">
+          <a href="javascript:;"><img class="header-back" src="./imgs/wei_one.jpg" alt=""><span class="back-name">微信</span></a>
+          <span class="header-title">1505A(9)</span>
+          <a href="javascript:;"><img class="header-group" src="./imgs/wei_two.jpg" alt=""></a>
+        </div>
+        <div id="main" class="js-contents">
+            <!--左文字-->
+            <div class="left TextLeft">
+              <a href="javascript:;"><img class="headImg" :src="{{headImage}}" alt=""></a>
+              <p class="left-word">{{content}}</p>
+            </div>
+            #
+            <!--右文字-->
+            <div class="right TextRight">
+              <a href="javascript:;"><img class="headImg" :src="{{headImage}}" alt=""></a>
+              <p class="left-word">{{content}}</p>
+            </div>
+            #
+            <!--左语音-->
+            <div class="left audioLeft js-audio">
+              <a href="javascript:;"><img class="headImg" :src="{{headImage}}" alt=""></a>
+              <p class="con audioLeft">
+                <span class="auto-voice">
+                    <img class="imgActive Ico" src="./imgs/au3.png" alt="">
+                    <img src="./imgs/au1.png" alt="">
+                    <img src="./imgs/au2.png" alt="">
+                </span>
+                  <audio class="audioPlay" :src="{{sound.url}}"></audio>
+              </p>
+              <div class="red">
+                <p></p>
+                <span class="js-long">{{sound.duration}}</span><b>"</b>
+              </div>
+            </div>
+            #
+            <!--右语音-->
+            <div class="right audioRight js-audio">
+              <a href="javascript:;"><img class="headImg" :src="{{headImage}}" alt=""></a>
+              <p class="con audioRight">
+                <span class="auto-voice">
+                    <img class="imgActive Ico" src="./imgs/au3.png" alt="">
+                    <img src="./imgs/au1.png" alt="">
+                    <img src="./imgs/au2.png" alt="">
+                </span>
+                  <audio class="audioPlay" :src="{{sound.url}}"></audio>
+              </p>
+              <div class="red">
+                <p></p>
+                <span class="js-long">{{sound.duration}}</span><b>"</b>
+              </div>
+            </div>
+            #
+            <!--左图片-->
+            <div class="left ImgLeft images">
+                <a href="javascript:;"><img class="headImg" :src="{{headImage}}" alt=""></a>
+                <img class="smallImg" :src="{{imageArray.turl}}" alt="">
+            </div>
+            #
+            <!--右图片-->
+            <div class="right ImgRight images">
+                <a href="javascript:;"><img class="headImg" :src="{{headImage}}" alt=""></a>
+                <img class="smallImg" :src="{{imageArray.turl}}" alt="">
+            </div>
+        </div>
+        <div id="footer" class="js-footer">
+          <a href="javascript:;"><img class="footer-keyboard fImg" src="./imgs/wei_03.jpg" alt=""></a>
+          <span id="js-voice" class="footer-voice voices active">按住 说话</span>
+          <input id="js-txt" class="footer-voice" type="text">
+          <a href="javascript:;"><img class="footer-face fImg" src="./imgs/wei_005.jpg" alt=""></a>
+          <a href="javascript:;"><img class="footer-more fImg" src="./imgs/wei_006.jpg" alt=""></a>
+        </div>
+        <div class="posi"></div>
+    </div>
+</body>
+</html>

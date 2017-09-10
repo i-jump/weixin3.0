@@ -1,0 +1,154 @@
+@import "../status/reset.css"
+#wrap
+   width 100%;
+   height 100%;
+   background #ebebeb
+   display flex
+   flex-wrap wrap
+   flex-direction column
+#header
+   height 0.71rem
+   background #353438
+   display flex
+   align-items center
+   .header-back
+      width 0.18rem
+      height auto
+      margin 0 0.05rem 0 0.21rem
+   .back-name
+         color #e0e0e0
+         font-size 0.24rem
+         position absolute
+   .header-title
+      flex 1
+      text-align center
+      font-size 0.28rem
+      color #fff
+   .header-group
+      width 0.38rem
+      height auto
+      margin-right 0.27rem
+#main
+   flex 1
+   overflow auto
+   .right,.left
+      display flex
+      margin 0.21rem 0.15rem
+      .headImg
+         width 0.64rem
+      .con,.left-word
+         max-width 4rem
+         min-width 0.9rem
+         background #ffffff
+         padding 0.14rem
+         border-radius 0.05rem
+
+      .con
+         .auto-voice
+            width 0.18rem
+            height 0.25rem
+            //display block
+            padding-top 0.1rem
+            //background red
+            line-height 0.25rem
+            display table-cell
+            vertical-align middle
+
+            img
+              max-width 0.18rem
+              height auto
+              display none
+            .imgActive
+               display block
+      .red
+         p
+           width 0.15rem
+           height 0.15rem
+           background #f00
+           border-radius 50%
+           margin-bottom 0.15rem
+   .right
+      flex-direction row-reverse
+      .con,.left-word
+         background #a0e75a
+      .con .auto-voice
+         float right
+         img:first-child
+           margin-top -0.03rem
+           transform  scale(0.8) rotate(180deg)
+         img:last-child
+            margin-top -0.03rem
+            transform scale(0.5) rotate(180deg)
+         img:nth-child(2)
+            margin-left 0.05rem
+            transform scale(0.5) rotate(180deg)
+   .images .smallImg
+      max-width 3.26rem
+      max-height 2.68rem
+      margin-bottom 0.2rem
+   .right
+      .headImg
+        margin-left 0.15rem
+   .imgMore
+      display: flex;
+      flex-direction: column;
+   .left .headImg
+      margin-right 0.15rem
+   .left .auto-voice
+      img:first-child
+         transform  scale(0.8)
+      img:nth-child(2)
+         margin-top 0.04rem
+         transform scale(0.5)
+      img:nth-child(3)
+         transform scale(0.5)
+   .red p
+      margin-left 0.05rem
+#footer
+   height 0.78rem
+   background #f6f6f7
+   display flex
+   align-items center
+   .fImg
+      width 0.45rem
+      height auto
+   .footer-keyboard
+      margin 0 0.1rem 0.05rem
+   .footer-voice
+      flex 1
+      font-size 0.22rem
+      color #60605f
+      font-weight bold
+      display none
+      height 0.56rem
+      border 0.02rem solid #eaeaea
+      line-height 0.56rem
+   .voices
+      text-align center
+   input
+     border 0;
+     flex 1
+     border-bottom 0.03rem #eaeaea solid
+     background #f5f5f5
+     height 0.5rem
+     text-align left
+     padding 0.2rem
+     outline 0
+   .active
+      display block
+   .footer-more
+      margin 0 0.05rem 0 0.1rem
+   .footer-face
+      margin-left 0.12rem
+
+
+
+
+
+
+
+
+
+
+
+

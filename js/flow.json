@@ -1,0 +1,451 @@
+{
+  "communication": {
+    "posts": [
+      {
+        "postId": "1",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "Hello! My name is liquan.",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "2",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "你好，欢迎你来到北京，这里是中国的首都，有许多美景...",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "3",
+        "dateTime": "2017.01.20 18:38",
+        "type": "leftSound",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "./status/enemy2_out.mp3",
+          "duration": "33"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "4",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "一起游山玩水，飞流直下... 还不错",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "5",
+        "dateTime": "2017.01.20 18:39",
+        "type": "rightSound",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "./status/1.mp3",
+          "duration": "44"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "6",
+        "dateTime": "2017.01.20 18:40",
+        "type": "leftImage",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/sun.jpg"
+          }
+      },
+      {
+        "postId": "7",
+        "dateTime": "2017.01.20 18:38",
+        "type": "leftSound",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "./status/game_music.mp3",
+          "duration": "23"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "8",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "在中国还有好多和北京一样的大城市，比如上海、深圳、广州、杭州,都特别好...",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+
+      {
+        "postId": "9",
+        "dateTime": "2017.01.20 18:41",
+        "type": "rightImage",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/03.jpg"
+          }
+      },
+      {
+        "postId": "10",
+        "dateTime": "2017.01.20 18:38",
+        "type": "leftSound",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "./status/./m.mp3",
+          "duration": "43"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "11",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "是的，特别是杭州，那里有白娘子住的雷峰塔",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "12",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "Love is a touch and yet not a touch.——Jerome David Salinger",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "9",
+        "dateTime": "2017.01.20 18:41",
+        "type": "rightImage",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/c2.jpeg"
+          }
+      },
+      {
+        "postId": "14",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "这不是郑爽吗？",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "13",
+        "dateTime": "2017.01.20 18:41",
+        "type": "rightImage",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/02.jpeg"
+          }
+      },
+      {
+        "postId": "14",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "再见👋，回头聊...",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "1",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "Hello! My name is liquan.",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "2",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "你好，欢迎你来到北京，这里是中国的首都，有许多美景...",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "3",
+        "dateTime": "2017.01.20 18:38",
+        "type": "leftSound",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "./status/enemy2_out.mp3",
+          "duration": "33"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "4",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "一起游山玩水，飞流直下... 还不错",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "5",
+        "dateTime": "2017.01.20 18:39",
+        "type": "rightSound",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "./status/1.mp3",
+          "duration": "44"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "6",
+        "dateTime": "2017.01.20 18:40",
+        "type": "leftImage",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/c1.jpg"
+          }
+      },
+      {
+        "postId": "7",
+        "dateTime": "2017.01.20 18:38",
+        "type": "leftSound",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "./status/game_music.mp3",
+          "duration": "23"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "8",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "在中国还有好多和北京一样的大城市，比如上海、深圳、广州、杭州,都特别好...",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+
+      {
+        "postId": "9",
+        "dateTime": "2017.01.20 18:41",
+        "type": "rightImage",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/03.jpg"
+          }
+      },
+      {
+        "postId": "10",
+        "dateTime": "2017.01.20 18:38",
+        "type": "leftSound",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "",
+        "sound": {
+          "url": "./status/./m.mp3",
+          "duration": "43"
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "11",
+        "dateTime": "2017.01.20 18:37",
+        "type": "rightText",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "是的，特别是杭州，那里有白娘子住的雷峰塔",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "12",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "Love is a touch and yet not a touch.——Jerome David Salinger",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "9",
+        "dateTime": "2017.01.20 18:41",
+        "type": "rightImage",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/c2.jpeg"
+          }
+      },
+      {
+        "postId": "14",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "这不是郑爽吗？",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      },
+      {
+        "postId": "13",
+        "dateTime": "2017.01.20 18:41",
+        "type": "rightImage",
+        "name": "王医生",
+        "headImage": "./imgs/doctor1.png",
+        "content": "",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray":
+          {
+            "turl": "./imgs/02.jpeg"
+          }
+      },
+      {
+        "postId": "14",
+        "dateTime": "2017.01.20 18:36",
+        "type": "leftText",
+        "name": "李全",
+        "headImage": "./imgs/head_03.png",
+        "content": "再见👋，回头聊...",
+        "sound": {
+          "url": "",
+          "duration": ""
+        },
+        "imageArray": []
+      }
+
+    ],
+    "end": "0",
+    "lastPostId": "5326907301"
+  }
+}
